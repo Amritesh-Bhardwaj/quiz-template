@@ -65,4 +65,4 @@ A secure, step-by-step quiz portal skeleton built with Next.js App Router and Su
 - Issues and PRs are welcome; please include clear steps to reproduce and proposed changes.
 
 ## License
-- Add a LICENSE file (e.g., MIT or Apache-2.0) to clarify usage and contributions for downstream users.
+- Apache-2.0 © 2025 — see LICENSE for details.
